@@ -261,6 +261,13 @@ footer .social-icon a {
         font-size: 1.1em
     }
 }
+@media (max-width: 450px) {
+    footer p {
+        font-size: 1em;
+    }
+    footer .social-icon {
+        font-size: 12px;
+}
 @media (max-width: 300px) {
     body {
         font-size: 10px;
